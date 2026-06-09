@@ -12,23 +12,28 @@
 | **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | __/5 |
 | **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | __/5 |
 
-### Correction Loop - __/5
+### Correction Loop - 1_/5
 **What you capture today:**
+  Nothing
+**How it compounds:**
+  
+
+### Preference Loop - 2_/5
+**What you capture today:**
+  Users are able to save their queries.  Indexes are adjusted based on usage
 **How it compounds:**
 
-### Preference Loop - __/5
+### Domain Context Loop - 1_/5
 **What you capture today:**
+  Siloed
 **How it compounds:**
 
-### Domain Context Loop - __/5
+### Network Loop - 3_/5
 **What you capture today:**
+  User feedback allow the team to refine the user expereince.  The product becomes better/more efficent as it injests additional requests.
 **How it compounds:**
 
-### Network Loop - __/5
-**What you capture today:**
-**How it compounds:**
-
-**Total Flywheel Score: __/20**
+**Total Flywheel Score: 7_/20**
 **Weakest Loop:**
 **Fix for weakest loop:**
 
