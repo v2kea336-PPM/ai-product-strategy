@@ -43,6 +43,7 @@
 
 ### 1. Platform Encroachment
 **Attacker:**
+
 **Vector:**
 **Time-to-threat:**
 **% of value at risk:**
