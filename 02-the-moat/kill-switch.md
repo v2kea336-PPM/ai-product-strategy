@@ -4,10 +4,10 @@
 
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
-| **Provider** | | H / M / L | |
-| **Abstraction** | | H / M / L | |
-| **Routing** | | H / M / L | |
-| **Eval** | | H / M / L | |
+| **Provider** |On prem/GCP | H / M / L |pivot to alternative provider |
+| **Abstraction** |some limitation | H / M / L |Would need to update some of our code |
+| **Routing** |Focus is on latency | H / M / L | |
+| **Eval** |Verify switching works without issues | H / M / L | |
 
 ## Portability Score
 <!-- Ready / Partial / Locked -->
